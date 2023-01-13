@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header_btn {
+    text-decoration: none;
+}
+
+.header {
+    background:linear-gradient(rgba(255, 255, 255, 0.568), rgba(255, 255, 255, 0.178)),url(https://img.championat.com/c/1350x759/news/big/p/y/kogda-nuzhno-otdavat-rebjonka-v-sport-rekomendacii_1574181249956324555.jpg)center/cover;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    border-bottom: 30px solid gray;
+}
+
+.page {
+    background: linear-gradient(rgba(0, 0, 0, 0.349), rgba(0, 0, 0, 0.349)) , url(/img_sport/img/min.jpg)center/cover;
+    height: 100vh;
+}
+
+.photo {
+    background:url(/img_sport/img/vb.jpg)center/cover;
+    height: 85vh;
+    
+}
